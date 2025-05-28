@@ -4,6 +4,7 @@ A Flutter application that fetches and displays news articles from a public news
 This Flutter app provides users with a clean and intuitive interface to browse and read news articles. The application consists of two main screens:
 
 Home Screen: Displays a scrollable list of news articles with thumbnails, titles, descriptions, and publication dates
+
 Detail Screen: Shows comprehensive information about selected articles including full content, images, author details, and source links
 
 # Technical Stack
